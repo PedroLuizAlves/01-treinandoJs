@@ -1,6 +1,7 @@
 const primeiroNumero =prompt("Digite o primeiro valor:")
 const segundoNumero =prompt ("Digite o segundo valor:")
 
+// Usamos "parseFloat" pra transformar uma string em um numero
 const x = parseFloat(primeiroNumero)
 const y = parseFloat(segundoNumero)
 
